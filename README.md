@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics and computer science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on A.I. projects
-- 📫 How to reach me
+- 📫 How to reach me hrnm2003@yahoo.com
 
 <!---
 hrnm2003/hrnm2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
